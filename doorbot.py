@@ -6,7 +6,7 @@ import serial
 
 class Telegram_Bot:
     def _init_(self):
-        token = '5330145703:AAHo_OoOUkQhCNFju4Ud4xwI0BxFMwbtBSg'
+        token = 'Revoked :)'
         self.url_base = f'https://api.telegram.org/bot{token}/'
         
 
